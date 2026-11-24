@@ -18,7 +18,9 @@
       <h3><a href="synthetic-mountains/">Synthetic mountains</a></h3>
       A made-up mountain region of 30 km by 30 km, in UTM zone 32N (EPSG:32632), with three mountains, a river with two tributaries and six rock units. It holds one file of every shape Karmania draws in 3D and 2D: a <b>block model</b> of 248,507 blocks, <b>lines</b> (the rivers), a <b>mesh</b> (the terrain) and two <b>grids</b> (the height of the ground and the rock at the surface).
       <br><br>
-      Use it to see the whole of Karmania on one dataset: a geology block diagram in 3D, contour lines from the mesh, a geological map in 2D, and an exported picture. It is invented, not a real place: the numbers mean nothing outside the demonstration. <sub>14 MB in 10 data files and a generator, of which the block model is 10.7 MB.</sub>
+      Use it to see the whole of Karmania on one dataset: a geology block diagram in 3D, contour lines from the mesh, a geological map in 2D, and an exported picture. It is invented, not a real place: the numbers mean nothing outside the demonstration.
+      <br><br>
+      <b>Size:</b> 14 MB in 10 data files and the generator, of which the block model is 10.7 MB.
     </td>
   </tr>
 </table>
